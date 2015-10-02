@@ -47,7 +47,6 @@ Other<br>
 <p>
 <b>Results</b>
           </div>
-        </header>
         <div id="survey">
         <?php
         $fname="/var/www/html/results.txt";
