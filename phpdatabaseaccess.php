@@ -1,8 +1,8 @@
 <?php
 	try
 {
-   $user = 'adminjNmWxkp';
-   $password = '3RNPfniefgaA'; 
+   $user = 'root';
+   $password = ''; 
    $db = new PDO('mysql:host=127.0.0.1;dbname=persons_id', $user, $password);
 
    echo "<h3>Persons Table</h3>";
