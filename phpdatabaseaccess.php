@@ -3,7 +3,7 @@
 {
    $user = 'adminjNmWxkp';
    $password = '3RNPfniefgaA'; 
-   $db = new PDO('mysql:host=127.9.96.130;dbname=persons_id', $user, $password);
+   $db = new PDO('mysql:host=127.9.96.130;dbname=persons', $user, $password);
 
    echo "<h3>Persons Table</h3>";
 
